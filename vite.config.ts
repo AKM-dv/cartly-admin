@@ -6,3 +6,4 @@ export default defineConfig({
   base: '/cartly-admin/', // 👈 important!
   plugins: [react()],
 });
+  
